@@ -32,6 +32,11 @@ Some snapshots are included in the package directory (snapshot_*.png).
 
     python demo_ukf_gui.py
 
+![snapshot_01](https://user-images.githubusercontent.com/33892004/104113020-e0d10200-5338-11eb-99c2-56c45457aa2b.png)
+
+![snapshot_02](https://user-images.githubusercontent.com/33892004/104113022-e595b600-5338-11eb-8cea-3e16000a99ce.png)
+
+
 Batch demo
 ^^^^^^^^^^
 
